@@ -11,13 +11,13 @@ The key features are as follows:
 
 ###Character-focused Multi-threaded narrative
 
- - **Characters** exist as their own elements, with their own "story" comprising an ordered list of "panels" that contain them.
+ - **Characters** exist as their own elements, with their own **story** comprising an ordered list of **panels** that contain them.
  - Comic panels are linked to the character elements they contain.
  - Character stories can come together (coverge) and split apart (diverge). When converged they share panels.
  - When two characters diverge the reader can select which character's story to follow.
  - Non-linear branching narrative allows for more exploration and development of a world. The reader can choose which path they take through the story.
  - Character focus means the reader can follow a character they like or switch to a new or different character.
- - Possibility of dynamic text? Displayed text could be different depending on who the "viewpoint" character is. (Advanced feature)
+ - Possibility of dynamic text? Displayed text could be different depending on who the **viewpoint** character is. (Advanced feature)
 
 ###Dynamic modular comic display format
 
